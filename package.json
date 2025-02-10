@@ -1,0 +1,12 @@
+{
+  "name": "express.js_checkpoint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Maurice Mwenda Ndwiga",
+  "license": "ISC",
+  "description": "Express.js checkpoint"
+}
