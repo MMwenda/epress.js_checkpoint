@@ -3,7 +3,7 @@ This is a simple and functional web application built using Express.js. The appl
 - **Home**
 - **Our Services**
 - **Contact Us**
-- **Error**
+- **Error Page**
 
 This web app uses a `Custom Access Restriction Middleware`: The application uses custom middleware to restrict access to the site during working hours (Monday to Friday, 9:00 AM to 5:00 PM). 
 This feature ensures the site is only accessible during specific business hours.
